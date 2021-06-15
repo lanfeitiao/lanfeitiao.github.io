@@ -1,4 +1,10 @@
 a, h1 {
-  color: green;
+  color: red;
   font-weight: bold;
 }
+
+a:hover {
+  background-color: green;
+}
+
+
